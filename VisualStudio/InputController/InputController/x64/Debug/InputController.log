@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  InputController.cpp
+d:\_nyu\semester 3\prototype studio\w7\visualstudio\inputcontroller\inputcontroller\inputcontroller.cpp(9): warning C4273: 'displayNumber': inconsistent dll linkage
+  d:\_nyu\semester 3\prototype studio\w7\visualstudio\inputcontroller\inputcontroller\controller.h(14): note: see previous definition of 'displayNumber'
+d:\_nyu\semester 3\prototype studio\w7\visualstudio\inputcontroller\inputcontroller\inputcontroller.cpp(13): warning C4273: 'getRandom': inconsistent dll linkage
+  d:\_nyu\semester 3\prototype studio\w7\visualstudio\inputcontroller\inputcontroller\controller.h(15): note: see previous definition of 'getRandom'
+d:\_nyu\semester 3\prototype studio\w7\visualstudio\inputcontroller\inputcontroller\inputcontroller.cpp(17): warning C4273: 'displaySum': inconsistent dll linkage
+  d:\_nyu\semester 3\prototype studio\w7\visualstudio\inputcontroller\inputcontroller\controller.h(16): note: see previous definition of 'displaySum'
+  Generating Code...
+     Creating library D:\_NYU\Semester 3\Prototype Studio\W7\VisualStudio\InputController\x64\Debug\InputController.lib and object D:\_NYU\Semester 3\Prototype Studio\W7\VisualStudio\InputController\x64\Debug\InputController.exp
+  InputController.vcxproj -> D:\_NYU\Semester 3\Prototype Studio\W7\VisualStudio\InputController\x64\Debug\InputController.dll
